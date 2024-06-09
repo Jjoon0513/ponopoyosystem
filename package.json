@@ -1,0 +1,11 @@
+{
+  "name": "ponopoyosystem",
+  "version": "0.0.1",
+  "description": "ponopoyosystem",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jjoon",
+  "license": "MIT"
+}
